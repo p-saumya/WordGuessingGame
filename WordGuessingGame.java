@@ -1,15 +1,5 @@
 import java.util.Scanner;
 
-class KnightPosition {
-    int x, y, distance;
-
-    public KnightPosition(int x, int y, int distance) {
-        this.x = x;
-        this.y = y;
-        this.distance = distance;
-    }
-}
-
 public class WordGuessingGame {
 
     static String randomWord;
